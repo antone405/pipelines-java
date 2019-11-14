@@ -1,4 +1,4 @@
-https://ice-enterprise.visualstudio.com/ICE%20DevOps/_apis/build/status/antone405.pipelines-java?branchName=master
+[![Build Status](https://ice-enterprise.visualstudio.com/ICE%20DevOps/_apis/build/status/antone405.pipelines-java?branchName=master)](https://ice-enterprise.visualstudio.com/ICE%20DevOps/_build/latest?definitionId=294&branchName=master)
 
 # Contributing
 
